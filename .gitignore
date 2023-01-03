@@ -1,0 +1,10 @@
+sharingapp_virtual_env/
+material_sharingApp/Adminstrator/__pycache__/
+material_sharingApp/Adminstrator/migrations/
+
+material_sharingApp/material_sharingApp/__pycache__/
+material_sharingApp/material_sharingApp/migrations/
+
+material_sharingApp/HeadesOfDepartement/__pycache__/
+material_sharingApp/HeadesOfDepartement/migrations/
+
